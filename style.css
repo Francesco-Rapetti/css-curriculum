@@ -1,0 +1,33 @@
+body {
+    /* width: 70%; */
+    margin: auto;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    border-bottom: solid 2px orange;
+    background-color: #EEEEEE;
+}
+
+header h1 {
+    font-weight: 300;
+}
+
+img {
+    width: 20%;
+}
+
+main {
+    border-bottom: solid 2px orange;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.item h3 {
+    font-style: italic;
+}
+
+main section h2 {
+    color: rgb(228, 156, 22);
+}
